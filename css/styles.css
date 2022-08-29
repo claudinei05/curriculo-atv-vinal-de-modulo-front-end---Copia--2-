@@ -1,11 +1,11 @@
 #pag-inteira {
   display: flex;
   background-color: #87cefa;
+  height: 98vh;
 }
 
 .perfil {
   background-color: #07064a;
-  height: 650px;
   width: 400px;
   display: flex;
 }
